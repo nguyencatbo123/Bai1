@@ -1,6 +1,6 @@
 # baitap
-# Nguyen Thanh Dat
-### MSV: 22810310314
+# Nguyen Cat Bo
+### MSV: 22810310305
 #  Git
 ## Ket qua
 
